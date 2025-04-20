@@ -1,0 +1,20 @@
+$primary : #FF8000;
+$secondary : #FFFF;
+$tertiary : green;
+
+.main {
+    height: 60vh;
+    width: 60vw;
+}
+
+.one{
+    background-color: $primary;
+}
+
+.two {
+    background-color: $secondary;
+}
+
+.three {
+    background-color: $tertiary;
+}

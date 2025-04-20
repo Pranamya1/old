@@ -1,0 +1,25 @@
+.main {
+  height: 60vh;
+  width: 60vw;
+  border: solid black 0.1px;
+}
+
+.one {
+  background-color: #FF8000;
+  height: 20vh;
+  width: 60vw;
+}
+
+.two {
+  background-color: white;
+  height: 20vh;
+  width: 60vw;
+}
+
+.three {
+  background-color: green;
+  height: 20vh;
+  width: 60vw;
+}
+
+/*# sourceMappingURL=flag.css.map */
